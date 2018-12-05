@@ -1,0 +1,19 @@
+{
+  "name": "distancecalc",
+  "version": "1.0.0",
+  "description": "This API is a service that provides travel distance and time for a matrix of origins and destinations.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/suryatej.tanuku/google-distance-matrix.git"
+  },
+  "author": "SURYA TEJA TANUKU",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/suryatej.tanuku/google-distance-matrix/issues"
+  },
+  "homepage": "https://gitlab.com/suryatej.tanuku/google-distance-matrix#README"
+}
